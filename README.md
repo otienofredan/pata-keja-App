@@ -1,28 +1,22 @@
-# Hi, I'm Rohit! 👋
+# Hi, I'm fredrick dan 👋
 
 ## 🚀 About Me
-Software Engineer 👨‍💻 | Proficient in building scalable web applications with MERN Stack (ReactJS) & Android App Developer
+Software Engineer 👨‍💻 | Proficient in building scalable web applications with (ReactJS) & Android App Developer
+partly i learn how to day trade stocks hahahahaha
 
 ## 🛠 Skills
-React, MERN Stack, Android App, UI/UX, C/C++/Python/JS etc.
+React, , Android App, UI/UX, C/C++/Python/JS etc.
 
 # 🏡 HouseRent - Android App
 
-<img src="https://raw.githubusercontent.com/rohitkadu/House-Rent-App---Rohit-K/master/app/src/main/ic_launcher-playstore.png?token=GHSAT0AAAAAACCIVNSE4VY7EQJWKW4JOWMQZCWDZHA" align="left"
-width="200" hspace="10" vspace="10">
 
-HouseRent is  one-stop solution for finding rental property.  
-Unlike other services, HouseRent is free and open source.  
+
+Pata keja is  one-stop solution for finding rental property.  
+  
 With a user-friendly interface and powerful search features, our app makes it easy to browse through a wide range of available properties. 
 
 Start your journey towards comfortable, convenient, and enjoyable living with the House Rent App!
-<p align="left">
-<a href="https://github.com/rohitkadu/House-Rent-App---Rohit-K/blob/master/output/houserent-app-rohit.apk">
-    <img alt="Get it on Google Play"
-        height="80"
-        src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>  
-</p>
+
 
 ## About
 
@@ -47,18 +41,7 @@ The android app lets you:
 - Needs no special permissions on Android 6.0+.
 
 
-## Screenshots
-<div align="center">
-  <img src="https://github.com/rohitkadu/House-Rent-App---Rohit-K/blob/master/output/houserent-splash-screen.png" width="80%" alt="Screenshot">
-</div>
-<p>&nbsp;</p>
 
-<div align="center">
-  <img src="https://github.com/rohitkadu/House-Rent-App---Rohit-K/blob/master/output/multi-screen-mockups-houserent.png" width="80%" alt="Screenshot">
-</div>
-<p>&nbsp;</p>
-
-<img src="https://github.com/rohitkadu/House-Rent-App---Rohit-K/blob/master/output/major-screens-houserent.png" width="100%" alt="Screenshot">
 
 # Technologies Used
 This project utilizes the following technologies:
@@ -83,17 +66,17 @@ The "Run at startup" permission is only used if Auto-Sync feature is enabled and
 ## Contributing
 
 HouseRent app is a free and open source project developed by me. Any contributions are welcome. Here are a few ways you can help:
- * [Report bugs and make suggestions.](https://github.com/rohitkadu/House-Rent-App---Rohit-K/issues)
+ * [Report bugs and make suggestions.]
  * Write some code. Please follow the code style used in the project to make a review process faster.
 
 ## Authors
 
-- [@rohitkadu](https://www.github.com/rohitkadu)
+-fredrick dan
 
 
 ## Support
 
-For support, email rohitkadufreelance@gmail.com
+For support, email fredrickdan@gmail.com
 
 
 ## License
