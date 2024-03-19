@@ -2,12 +2,13 @@
 
 ## 🚀 About Me
 Software Engineer 👨‍💻 | Proficient in building scalable web applications with (ReactJS) & Android App Developer
-partly i learn how to day trade stocks hahahahaha
+
+partly i learn how to day trade stocks(forex)😂😂😂 😂 
 
 ## 🛠 Skills
 React, , Android App, UI/UX, C/C++/Python/JS etc.
 
-# 🏡 HouseRent - Android App
+# 🏡 Pata keja - Android App
 
 
 
